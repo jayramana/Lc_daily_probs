@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.svelte": "svelte",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
